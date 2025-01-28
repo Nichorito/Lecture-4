@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+
+  #header {
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 25px;
+  }
+  
+  form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #submission {
+    padding-top: 10px;
+    width: 50%;
+  }
+
+  button {
+    margin: 10px;
+  }

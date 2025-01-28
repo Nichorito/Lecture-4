@@ -6,6 +6,6 @@ document.getElementById("submitButton").addEventListener("click", function () {
       window.open("https://www.instagram.com/nichorito/", "_blank");
     } else {
       alert("Sorry you lost the game");
-      window.open("https://pornhub.com/midget", "_blank");
+      window.open("https://pornhub.com", "_blank");
     }
   });
